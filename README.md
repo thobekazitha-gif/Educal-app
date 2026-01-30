@@ -4,8 +4,7 @@
 
 #  Logic League Educational Material Generator
 
-## Practical Project – Tech Career Accelerator (CAPACITI)
-
+## Practical Project 
 **Program:** Tech Career Accelerator (CAPACITI)  
 **Project Type:** Generative AI Content Tool  
 **Sector/Application:** Education – Logic & Critical Thinking  
