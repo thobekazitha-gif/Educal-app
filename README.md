@@ -1,4 +1,4 @@
-# 📝 Logic League Educational Material Generator
+#  Logic League Educational Material Generator
 
 ## Practical Project – Tech Career Accelerator (CAPACITI)
 
@@ -7,19 +7,19 @@
 **Sector/Application:** Education – Logic & Critical Thinking  
 **Team Size:** Individual / Group Project  
 
-🔗 **Prototype & Demo Links:**  
+ **Prototype & Demo Links:**  
 - AI Studio Generator: [https://ai.studio/apps/drive/186vYBBRppJo1pu8A4TlfadI-v25tT2Ht](https://ai.studio/apps/drive/186vYBBRppJo1pu8A4TlfadI-v25tT2Ht)  
 - Logic League Educational Platform: [https://logic-league.vercel.app/](https://logic-league.vercel.app/)  
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Logic League Educational Material Generator** is a specialized AI tool designed to produce high-quality educational content specifically for **Logic League** learning experiences. The generator creates lesson plans, student worksheets, logic puzzles, hints, and teacher guides tailored to the platform's critical thinking and reasoning challenges. By leveraging generative AI APIs, the tool enables educators to quickly create customized materials, save time, and enhance learning outcomes.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Generate high-quality **Logic League educational content**  
 - Support multiple content types: lesson plans, worksheets, puzzles, hints, and teacher guides  
@@ -29,7 +29,7 @@ The **Logic League Educational Material Generator** is a specialized AI tool des
 
 ---
 
-## ⚙️ Features
+##  Features
 
 ### Core Features
 - **Customizable Input Parameters:** Grade level, difficulty, content type, and number of items  
@@ -40,7 +40,7 @@ The **Logic League Educational Material Generator** is a specialized AI tool des
 
 ---
 
-## 🧩 Technical Specifications
+##  Technical Specifications
 
 - **Generative AI API:** OpenAI, Hugging Face, or similar  
 - **Frontend Interface:** Web form or no-code workflow  
@@ -50,7 +50,7 @@ The **Logic League Educational Material Generator** is a specialized AI tool des
 
 ---
 
-## 🛠️ Implementation Details
+##  Implementation Details
 
 ### User Flow
 1. User selects content type (e.g., Lesson Plan, Puzzle, Hint)  
@@ -73,7 +73,7 @@ The **Logic League Educational Material Generator** is a specialized AI tool des
 
 ---
 
-## 📄 Deliverables
+##  Deliverables
 
 - **Functional Tool:** Code repository or no-code workflow documentation ([AI Studio Link](https://ai.studio/apps/drive/186vYBBRppJo1pu8A4TlfadI-v25tT2Ht))  
 - **Prompt Library:** 5+ optimized templates with scenario variations  
@@ -87,7 +87,7 @@ The **Logic League Educational Material Generator** is a specialized AI tool des
 
 ---
 
-## ⚖️ Error Handling & Validation
+##  Error Handling & Validation
 
 - Input validation prevents invalid or unsafe requests  
 - Output filtering removes inappropriate or irrelevant content  
@@ -95,7 +95,7 @@ The **Logic League Educational Material Generator** is a specialized AI tool des
 
 ---
 
-## ✅ Evaluation Alignment
+##  Evaluation Alignment
 
 - Demonstrates high-quality Logic League content generation  
 - Effective prompt engineering methodology  
@@ -105,7 +105,7 @@ The **Logic League Educational Material Generator** is a specialized AI tool des
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 The **Logic League Educational Material Generator** demonstrates how generative AI can support educators by creating tailored lesson plans, logic puzzles, worksheets, and hints. It combines prompt engineering, customization parameters, and performance tracking to provide a professional, scalable, and efficient tool for enhancing student learning in **Logic League** activities.
 
